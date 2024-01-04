@@ -1,2 +1,2 @@
-# minecraft-for-PacuscatOS
-a minecraft for PacuscatOS
+# minecraft-for-PacuscatOS and gptos
+a minecraft for PacuscatOS and gptos
